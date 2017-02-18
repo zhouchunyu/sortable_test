@@ -8,5 +8,5 @@ npm start
 `
 
 这是一篇百度前端关于可视化编辑器的分析文章 http://www.jianshu.com/p/66d8abdffdea?utm_source=desktop&utm_medium=timeline
-这是百度在线可视化编辑平台 http://next.baidu.com/components/editor/gaea-editor
 
+这是百度在线可视化编辑平台 http://next.baidu.com/components/editor/gaea-editor
