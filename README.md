@@ -4,8 +4,10 @@ sortable是一个可以实现类在现代浏览器和移动设备上进行拖拽
 
 
 使用方法
+
 `
 git clone https://github.com/zhouchunyu/sortable_test.git
+
 npm install
 
 npm start
